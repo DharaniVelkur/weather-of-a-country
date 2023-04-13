@@ -1,0 +1,14 @@
+/* body{
+    background-color: antiquewhite;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 1fr 1fr 1fr;
+} */
+.card-img-top{
+    width:260px;
+    height: 180px;
+}
+.card-body{
+    background-color:rgb(212, 204, 204);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
